@@ -9,7 +9,7 @@
     <meta http-equiv="Content-Language" content="en">
     
     
-    <title>DataScience/ReadMe.md at master · RubenF/DataScience</title>
+    <title>DataScience/ReadMe.md at master Â· RubenF/DataScience</title>
     <link rel="search" type="application/opensearchdescription+xml" href="/opensearch.xml" title="GitHub">
     <link rel="fluid-icon" href="https://github.com/fluidicon.png" title="GitHub">
     <link rel="apple-touch-icon" sizes="57x57" href="/apple-touch-icon-114.png">
@@ -23,7 +23,7 @@
       <meta name="browser-stats-url" content="https://api.github.com/_private/browser/stats">
     <meta name="browser-errors-url" content="https://api.github.com/_private/browser/errors">
     <link rel="assets" href="https://assets-cdn.github.com/">
-    <link rel="web-socket" href="wss://live.github.com/_sockets/NDM2NjA4MDpiYjA0Y2JjZmI3OWIyNjc3YjI5MjM0NDVkOWE4NWU3ZDo0Y2M4YjM2YzFhYmNiMTI2ZTk2OGIyZTk1YmEyOTFjZjhlMDVhMjFiZGI4MTFlN2Y5YzAyZjc5NTM4ZTBkM2Ex--31987b9c3ec66003bb674d5b23ff59f0d1b77b6b">
+    <link rel="web-socket" href="wss://live.github.com/_sockets/NDM2NjA4MDpiYjA0Y2JjZmI3OWIyNjc3YjI5MjM0NDVkOWE4NWU3ZDpiNjU3NWM4YTRhZjdlNmUxOTY5NzIyNjE2NTgzNTU4YmQ5ZjVjMTg4MGQwMTQzZjMzZGFkMmQzZjNjNDhjZGM4--f36ceaa4c98164ad7c37781865c3a3039a28ccaa">
     <meta name="pjax-timeout" content="1000">
     <link rel="sudo-modal" href="/sessions/sudo_modal">
 
@@ -33,7 +33,7 @@
 
         <meta name="google-analytics" content="UA-3769691-2">
 
-    <meta content="collector.githubapp.com" name="octolytics-host" /><meta content="collector-cdn.github.com" name="octolytics-script-host" /><meta content="github" name="octolytics-app-id" /><meta content="C9E7B4B5:6D10:E00F7F:55871B75" name="octolytics-dimension-request_id" /><meta content="4366080" name="octolytics-actor-id" /><meta content="RubenF" name="octolytics-actor-login" /><meta content="aa7f6686133ca579908b338a856a498500155add0bc7e349606e5b59d261855d" name="octolytics-actor-hash" />
+    <meta content="collector.githubapp.com" name="octolytics-host" /><meta content="collector-cdn.github.com" name="octolytics-script-host" /><meta content="github" name="octolytics-app-id" /><meta content="C9E7B4B5:3EFD:55C5F47:55871C64" name="octolytics-dimension-request_id" /><meta content="4366080" name="octolytics-actor-id" /><meta content="RubenF" name="octolytics-actor-login" /><meta content="aa7f6686133ca579908b338a856a498500155add0bc7e349606e5b59d261855d" name="octolytics-actor-hash" />
     
     <meta content="Rails, view, blob#show" name="analytics-event" />
     <meta class="js-ga-set" name="dimension1" content="Logged In">
@@ -47,7 +47,7 @@
 
 
     <meta content="authenticity_token" name="csrf-param" />
-<meta content="1m2RcTAQ/YPPiiOD3R30l/GeGnod40l5Y7ms1a7dysNexZj4yusVQ1bFiNjLEIcYFYubRh+Zd9N3QDgAEBkMKg==" name="csrf-token" />
+<meta content="YmS61JIdRGXLeC174B1XwKk+Gq4hZQ8BkxeEL7SwmXDn5QF4/QEMM8IJHaWN9IXX7tgkGm9Q0kzFUExdAwUkgg==" name="csrf-token" />
 
     <link crossorigin="anonymous" href="https://assets-cdn.github.com/assets/github/index-805b1dc56a27171cceb8daae5c9e50c759789b9473bca4278a8145697ca3e05b.css" media="all" rel="stylesheet" />
     <link crossorigin="anonymous" href="https://assets-cdn.github.com/assets/github2/index-7f8f14b96da3b21f83e68e993b1c2a60d443d867b62bfe83c1cfd54249ce9913.css" media="all" rel="stylesheet" />
@@ -198,7 +198,7 @@
           Settings
         </a>
 
-        <form accept-charset="UTF-8" action="/logout" class="logout-form" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="L/YNxTPRKx+mWOWxBFuUCgRHeV46FDkeiYMJGJHIQZg456ShhdF71jjr3ejGRVRhkgWYCyPJvq2bB0QMoqJ+ZA==" /></div>
+        <form accept-charset="UTF-8" action="/logout" class="logout-form" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="xWUR62L2S5cy/Ar2gYFLPzfe6rq3tFysUEgpjZMRXfItkQnGhe+pJM2p8zngEqwB9UmKNPka3ZV03TefX7jdfw==" /></div>
           <button class="dropdown-item dropdown-signout" data-ga-click="Header, sign out, icon:logout">
             Sign out
           </button>
@@ -229,7 +229,7 @@
 <ul class="pagehead-actions">
 
   <li>
-      <form accept-charset="UTF-8" action="/notifications/subscribe" class="js-social-container" data-autosubmit="true" data-remote="true" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="M9UCLRDxBI3jCj1wX1tdZHteAnoi1NC96wIE5jsM5F2pcHUJUGb1y+pOqLk/zMH+c/OGkJlxy7eAJZ4heZhrYA==" /></div>    <input id="repository_id" name="repository_id" type="hidden" value="35780181" />
+      <form accept-charset="UTF-8" action="/notifications/subscribe" class="js-social-container" data-autosubmit="true" data-remote="true" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="GWXGeF/4GxOs7BSx98B+t9f/ybNdAcnLLUhV7hftJRMsKTYFhNCrEnX/3cdz7ncxBl1r1wHV9MD7PDxK9VhHXg==" /></div>    <input id="repository_id" name="repository_id" type="hidden" value="35780181" />
 
       <div class="select-menu js-menu-container js-select-menu">
         <a href="/RubenF/DataScience/subscription"
@@ -304,7 +304,7 @@
     
   <div class="js-toggler-container js-social-container starring-container ">
 
-    <form accept-charset="UTF-8" action="/RubenF/DataScience/unstar" class="js-toggler-form starred js-unstar-button" data-remote="true" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="JNtKGBlVfeaE7+gDnBeJSksKE4kWShZfcy71Ap4EWx+gyhaZd/GvssMpZa6m48soLrsSqCJusLBdMaz6NqE2Vg==" /></div>
+    <form accept-charset="UTF-8" action="/RubenF/DataScience/unstar" class="js-toggler-form starred js-unstar-button" data-remote="true" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="HfXfZIfOStQPfB/6wRS3yfQjNaQAXs6s0PwARIaW+YA7upLGAogeKNnp57Xuyv3phgS/mQ4t2IUcSuKKj3B9Wg==" /></div>
       <button
         class="btn btn-sm btn-with-count js-toggler-target"
         aria-label="Unstar this repository" title="Unstar RubenF/DataScience"
@@ -316,7 +316,7 @@
           0
         </a>
 </form>
-    <form accept-charset="UTF-8" action="/RubenF/DataScience/star" class="js-toggler-form unstarred js-star-button" data-remote="true" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="M4DpSBxs9jeVn0iUkEFRHwqKrlTQk2JLERIN9E21q8DSjkYPmFsBIiIWdTA5qQXVnXZOKLrFR0htg3GqcRCb7w==" /></div>
+    <form accept-charset="UTF-8" action="/RubenF/DataScience/star" class="js-toggler-form unstarred js-star-button" data-remote="true" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="Ukn0GtMBKrakasonP4CvYnZdvFsro9gsW9B8SqQvJZnhkT4i6MyZzJOfBrFGvRSb2wjNsbtGQa5dJdMN6vOxyg==" /></div>
       <button
         class="btn btn-sm btn-with-count js-toggler-target"
         aria-label="Star this repository" title="Star RubenF/DataScience"
@@ -332,7 +332,7 @@
   </li>
 
         <li>
-          <form accept-charset="UTF-8" action="/RubenF/DataScience/fork" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="BTScYcvvhYw3yCUOBQgu0LF1mXM6x5DgoRrIEdei7SUqBfeSgIVHJlueFr4HRoI76F7AGX+JAmehcjizxYK3Kw==" /></div>
+          <form accept-charset="UTF-8" action="/RubenF/DataScience/fork" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="TDceifHNfW3uvH7KAjI8MVzXHt04JRfE041gA3H+A6Ks0la/BPw0+lVg4zCli8D8OARD1WMrTNHLf7nA5j1uVg==" /></div>
             <button
                 type="submit"
                 class="btn btn-sm btn-with-count"
@@ -466,7 +466,7 @@
 
 
 <div class="clone-options">You can clone with
-  <form accept-charset="UTF-8" action="/users/set_protocol?protocol_selector=http&amp;protocol_type=push" class="inline-form js-clone-selector-form is-enabled" data-remote="true" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="16bYNT0QmLpt31nByl5FSRR4ioCj/lmRLTepssta9bvTXi1z+7k+OIbgCcTjnf2pY+8Zdpj68dTSPwcR+UKP3Q==" /></div><button class="btn-link js-clone-selector" data-protocol="http" type="submit">HTTPS</button></form>, <form accept-charset="UTF-8" action="/users/set_protocol?protocol_selector=ssh&amp;protocol_type=push" class="inline-form js-clone-selector-form is-enabled" data-remote="true" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="yDEFdF/qV2OdFh5CAypC5YTrTDZyOGdK4xXVrGcj7nG9WJVnz5ErjIue3SQm2EV/2RGTcsE1iEDl9Euo3JYNBQ==" /></div><button class="btn-link js-clone-selector" data-protocol="ssh" type="submit">SSH</button></form>, or <form accept-charset="UTF-8" action="/users/set_protocol?protocol_selector=subversion&amp;protocol_type=push" class="inline-form js-clone-selector-form is-enabled" data-remote="true" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="ZTfIuN+fWGeRQj6cMoqOba7O1JSGmxhPwklBoOtQxkDLO9ZdPvJr+dRg9WS6qGE4S3C9fN0A3LI39+5SKWs9uQ==" /></div><button class="btn-link js-clone-selector" data-protocol="subversion" type="submit">Subversion</button></form>.
+  <form accept-charset="UTF-8" action="/users/set_protocol?protocol_selector=http&amp;protocol_type=push" class="inline-form js-clone-selector-form is-enabled" data-remote="true" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="cqJGXqLhXhYh5z1ixIwL9G/vJ+pPfnP6Wl+1XhRfPC73l6PLsV4uNhivwbQeICu3bqLVJxdNKAmn9iLwoQrBfg==" /></div><button class="btn-link js-clone-selector" data-protocol="http" type="submit">HTTPS</button></form>, <form accept-charset="UTF-8" action="/users/set_protocol?protocol_selector=ssh&amp;protocol_type=push" class="inline-form js-clone-selector-form is-enabled" data-remote="true" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="r7bxX41Y3nck6wIVJI6FMkCdlqckCllt6s2qL5FiUIKEwcVyCJvzyxAN22iok/FithqkzG2OEr4338jrRyHjGA==" /></div><button class="btn-link js-clone-selector" data-protocol="ssh" type="submit">SSH</button></form>, or <form accept-charset="UTF-8" action="/users/set_protocol?protocol_selector=subversion&amp;protocol_type=push" class="inline-form js-clone-selector-form is-enabled" data-remote="true" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="L+TVCk3cF6rhOVfCkuqP+DOgbcdbWOCsINTWDq2NCJbGbdugCDGh0m9c22ULiRuw6MJeQ45UmBhKWptsT6Y3MA==" /></div><button class="btn-link js-clone-selector" data-protocol="subversion" type="submit">Subversion</button></form>.
   <a href="https://help.github.com/articles/which-remote-url-should-i-use" class="help tooltipped tooltipped-n" aria-label="Get help on which URL is right for you.">
     <span class="octicon octicon-question"></span>
   </a>
@@ -520,15 +520,15 @@
 
       <div class="select-menu-filters">
         <div class="select-menu-text-filter">
-          <input type="text" aria-label="Find or create a branch…" id="context-commitish-filter-field" class="js-filterable-field js-navigation-enable" placeholder="Find or create a branch…">
+          <input type="text" aria-label="Find or create a branchâ€¦" id="context-commitish-filter-field" class="js-filterable-field js-navigation-enable" placeholder="Find or create a branchâ€¦">
         </div>
         <div class="select-menu-tabs">
           <ul>
             <li class="select-menu-tab">
-              <a href="#" data-tab-filter="branches" data-filter-placeholder="Find or create a branch…" class="js-select-menu-tab">Branches</a>
+              <a href="#" data-tab-filter="branches" data-filter-placeholder="Find or create a branchâ€¦" class="js-select-menu-tab">Branches</a>
             </li>
             <li class="select-menu-tab">
-              <a href="#" data-tab-filter="tags" data-filter-placeholder="Find a tag…" class="js-select-menu-tab">Tags</a>
+              <a href="#" data-tab-filter="tags" data-filter-placeholder="Find a tagâ€¦" class="js-select-menu-tab">Tags</a>
             </li>
           </ul>
         </div>
@@ -551,11 +551,11 @@
             </a>
         </div>
 
-          <form accept-charset="UTF-8" action="/RubenF/DataScience/branches" class="js-create-branch select-menu-item select-menu-new-item-form js-navigation-item js-new-item-form" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="n94/iex9VpH9KsYBQdjbtEkcnVR5tus5xfq8Ju/poUmstEa6frba0ZHDUo1BfBwOPr1E1FR6CCZX2F2BLMf3Rw==" /></div>
+          <form accept-charset="UTF-8" action="/RubenF/DataScience/branches" class="js-create-branch select-menu-item select-menu-new-item-form js-navigation-item js-new-item-form" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="6k8g3b9bYK7tstxLmj+5YDzZlbjSEtU7XP0kmH/iCw7M9runENX+L70/Gx7TsRA/BNp0/mlGgIdsgNmF0Ekehw==" /></div>
             <span class="octicon octicon-git-branch select-menu-item-icon"></span>
             <div class="select-menu-item-text">
               <span class="select-menu-item-heading">Create branch: <span class="js-new-item-name"></span></span>
-              <span class="description">from ‘master’</span>
+              <span class="description">from â€˜masterâ€™</span>
             </div>
             <input type="hidden" name="name" id="name" class="js-new-item-value">
             <input type="hidden" name="branch" id="branch" value="master">
@@ -640,12 +640,12 @@
             <span class="octicon octicon-device-desktop"></span>
         </a>
 
-            <form accept-charset="UTF-8" action="/RubenF/DataScience/edit/master/3.Getting_and_Cleaning_Data/Week3/ReadMe.md" class="inline-form" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="1JRH+CH9WFbT5grB2qb8HM05ljVB+m6LPR0suQtZTklVZyBCr/rXdFZiJe0pyBIC69jgUewJiL7eIUNXqylvyw==" /></div>
+            <form accept-charset="UTF-8" action="/RubenF/DataScience/edit/master/3.Getting_and_Cleaning_Data/Week3/ReadMe.md" class="inline-form" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="AVKpDBbVL13TohF1ifYJf1OdS58v6KXBtYiez9q0Bp3LEDbU1GCOSFDHR8tPX4j5n/W+sHRheS0jtLLiXcLKCg==" /></div>
               <button class="octicon-btn tooltipped tooltipped-n" type="submit" aria-label="Edit this file" data-hotkey="e" data-disable-with>
                 <span class="octicon octicon-pencil"></span>
               </button>
 </form>
-          <form accept-charset="UTF-8" action="/RubenF/DataScience/delete/master/3.Getting_and_Cleaning_Data/Week3/ReadMe.md" class="inline-form" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="rVfrm/QnlH3j4/uPRirxfGIWNVT7Bp3krlNs7osF/PzLM8rOHeHP3R7VO/iWe8x1QPRw9i8FQI9DtoMy/IkhUQ==" /></div>
+          <form accept-charset="UTF-8" action="/RubenF/DataScience/delete/master/3.Getting_and_Cleaning_Data/Week3/ReadMe.md" class="inline-form" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="323TFrvbjmgfmfKJjVAZe6wHBf9+eurOcCIxmuKVGon5rmpwW8DRs1lxGw52Jebr1/IdihsRUsNDPciv3+GUNw==" /></div>
             <button class="octicon-btn octicon-btn-danger tooltipped tooltipped-n" type="submit" aria-label="Delete this file" data-disable-with>
               <span class="octicon octicon-trashcan"></span>
             </button>
@@ -715,7 +715,7 @@ From the data set in step 4, creates a second, independent tidy data set with th
       <span class="mega-octicon octicon-mark-github" title="GitHub"></span>
 </a>
     <ul class="site-footer-links">
-      <li>&copy; 2015 <span title="0.07273s from github-fe123-cp1-prd.iad.github.net">GitHub</span>, Inc.</li>
+      <li>&copy; 2015 <span title="0.04728s from github-fe139-cp1-prd.iad.github.net">GitHub</span>, Inc.</li>
         <li><a href="https://github.com/site/terms" data-ga-click="Footer, go to terms, text:terms">Terms</a></li>
         <li><a href="https://github.com/site/privacy" data-ga-click="Footer, go to privacy, text:privacy">Privacy</a></li>
         <li><a href="https://github.com/security" data-ga-click="Footer, go to security, text:security">Security</a></li>
